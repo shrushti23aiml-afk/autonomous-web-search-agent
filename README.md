@@ -15,7 +15,7 @@ Playwright
 Web Automation
 
 ## How to Run
-
-pip install playwright
+pip install -r requirements.txt
 python -m playwright install
 python agent.py
+
